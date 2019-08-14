@@ -1,6 +1,10 @@
 # obviouscapexample_fw
 ### obvıous. Capabilities Example Firmware
 
+> ![Serval Cat](serval.png) 
+> 
+> The cat's out of the bag!  Please note that **obvıous.** Capabilities are a future product of **obvıous.** and are currently in the experimental phase.  Feel free to inquire within if you are interested in testing it out!
+
 obvıous. Capabilities provide a means for capability vendors to license proprietary software to 3rd parties for use in their products.  The ecosystem involves a cloud-based platform whereby vendors can deploy capabilities for sale to 3rd parties, 3rd parties can purchase blocks of capabilities licenses, and 3rd party devices may be provisioned at manufacturing time.
 
 The obvıous. Capabilities firmware, dubbed *Serval*, is a portion of the ecosystem to be deployed on each device manufactured by the 3rd party.  During provisioning, a certificate will be written to the device, and a modified Master Boot Record image will provide the capability vendor's software with the means to verify the certificate.
