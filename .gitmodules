@@ -1,0 +1,6 @@
+[submodule "serval"]
+	path = serval
+	url = git@github.com:justaddobvious/module_servalsvc.git
+[submodule "nRF5_SDK_15.3.0_59ac345"]
+	path = nRF5_SDK_15.3.0_59ac345
+	url = git@github.com:justaddobvious/nRF5_SDK_15.3.0_59ac345.git
